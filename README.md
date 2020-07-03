@@ -1,2 +1,2 @@
 # Aulas-Portugol
-Aulas de lógica de programação - Generation
+Aulas de lógica de programação - GenerationBrasil
